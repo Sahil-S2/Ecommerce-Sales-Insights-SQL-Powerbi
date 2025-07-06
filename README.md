@@ -93,7 +93,7 @@ Data derived from a public e-commerce transactional dataset similar to the **Oli
 ### 📊 Power BI Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/sales_dashboard.png" alt="Power BI Dashboard Preview" width="800"/>
+  <img src="screenshots/sales_dashboard_page1.jpg" alt="Power BI Dashboard Preview" width="800"/>
 </p>
 
 > 📈 *This dashboard page highlights monthly revenue, order trends, average order value, and customer behavior split.*
